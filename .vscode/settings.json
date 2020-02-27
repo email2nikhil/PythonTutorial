@@ -1,5 +1,5 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "C:\\Anaconda\\envs\\AzureML\\python.exe"
+    "python.pythonPath": "C:\\Users\\nikhi\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
 }
